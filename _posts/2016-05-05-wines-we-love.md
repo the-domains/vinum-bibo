@@ -4,11 +4,12 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Critical acclaim for this wine and tasting notes include:'
-datePublished: '2016-05-05T23:44:12.298Z'
-dateModified: '2016-05-05T23:43:54.144Z'
-title: ''
+description: "The drought is proving to produce some really stunning wines from the usual suspects in the Santa Cruz Mountain Appellation. It's an exciting time to try almost any bottle from the area. We received our Spring 2016 shipment from the Domaine Eden Winery that included this 2012 Cabernet Sauvignon. This estate grown bottle reminded us of the estate grapes of nearby wineries as well (and it's fun to compare - particularly when good wineries with estate vineyards are so close to one another)."
+datePublished: '2016-05-05T23:47:30.643Z'
+dateModified: '2016-05-05T23:45:54.303Z'
+title: Domaine Eden 2012 Cabernet Sauvignon
 author: []
+sourcePath: _posts/2016-05-05-wines-we-love.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-05-wines-we-love.md
 url: wines-we-love/index.html
 _type: Article
 
