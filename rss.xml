@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[VINUM BIBO]]></title>
+        <description><![CDATA[VINUM BIBO]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 05 May 2016 23:44:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wines We Love]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a4bce68-e9a5-4fb8-a414-d3d384a45838.jpg">]]></description>
+            <link>undefinedwines-we-love/index.html</link>
+            <guid isPermaLink="false">4d0a734c-207c-40bb-8e2c-5dfa06c78778</guid>
+            <pubDate>Thu, 05 May 2016 23:44:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
