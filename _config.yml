@@ -1,0 +1,28 @@
+name: VINUM BIBO
+favicon: null
+layout_spectrum: 0.9250827077776194
+typography_spectrum: 0.2591686947271228
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8240849294234067
+  lightness: 0.25932238483801484
+  saturation: 0.5474654394201934
+  rhythmicContrast: 0.681997541571036
+purpose: []
