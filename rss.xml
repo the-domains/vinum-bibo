@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[VINUM BIBO]]></title>
-        <description><![CDATA[VINUM BIBO]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Drink Local]]></title>
+        <description><![CDATA[Drink Local]]></description>
+        <link>https://thegrid.ai/vinum-bibo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 23:44:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 05 May 2016 23:47:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vinum-bibo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Wines We Love]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a4bce68-e9a5-4fb8-a414-d3d384a45838.jpg">]]></description>
-            <link>undefinedwines-we-love/index.html</link>
+            <title><![CDATA[Domaine Eden 2012 Cabernet Sauvignon]]></title>
+            <description><![CDATA[<article><h1>Domaine Eden 2012 Cabernet Sauvignon</h1><h2>Rocky Soils and Rock Steady Cabs</h2><p>The drought is proving to produce some really stunning wines from the usual suspects in the Santa Cruz Mountain Appellation. It's an exciting time to try almost any bottle from the area. We received our Spring 2016 shipment from the Domaine Eden Winery that included this 2012 Cabernet Sauvignon. This estate grown bottle reminded us of the estate grapes of nearby wineries as well (and it's fun to compare - particularly when good wineries with estate vineyards are so close to one another).</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a4bce68-e9a5-4fb8-a414-d3d384a45838.jpg"></article>]]></description>
+            <link>https://thegrid.ai/vinum-bibo/wines-we-love/index.html</link>
             <guid isPermaLink="false">4d0a734c-207c-40bb-8e2c-5dfa06c78778</guid>
-            <pubDate>Thu, 05 May 2016 23:44:12 GMT</pubDate>
+            <pubDate>Thu, 05 May 2016 23:47:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
